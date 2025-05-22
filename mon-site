@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon CV - Benjamin Doria Ebede</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background: #1a73e8;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 30px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        h1, h2, h3 {
+            margin-top: 0;
+        }
+        footer {
+            text-align: center;
+            background: #1a73e8;
+            color: white;
+            padding: 10px;
+        }
+        .contact a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Benjamin Doria Ebede</h1>
+        <p>Développeur Web | Technicien Réseaux & Sécurité | Étudiant en Informatique</p>
+    </header>
+
+    <section class="presentation">
+        <h2>À propos de moi</h2>
+        <p>
+            Je suis un jeune passionné d'informatique spécialisé dans les réseaux, la sécurité informatique,
+            le développement web et le support technique. Je suis actuellement à la recherche d'opportunités
+            pour développer mes compétences et contribuer à des projets innovants.
+        </p>
+    </section>
+
+    <section class="competences">
+        <h2>Compétences</h2>
+        <ul>
+            <li>Maintenance matérielle et logicielle</li>
+            <li>Configuration réseau (Pare-feu pfSense, VLAN, etc.)</li>
+            <li>Développement de sites web (HTML, CSS, JavaScript)</li>
+            <li>Administration systèmes (Windows, Linux)</li>
+            <li>Installation de caméras de surveillance</li>
+            <li>Protection et sauvegarde de données</li>
+        </ul>
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Formation en cybersécurité - OpenClassrooms</li>
+            <li>Certification Cisco IT Essentials</li>
+            <li>Formation à la fabrication de savons liquides et d’eau de javel</li>
+            <li>Introduction à la programmation Python - Coursera</li>
+            <li>Certification Google IT Support (en cours)</li>
+        </ul>
+    </section>
+
+    <section class="cv">
+        <h2>Mon CV</h2>
+        <p>Télécharger mon CV au format PDF : <a href="cv.pdf" target="_blank">Cliquez ici</a></p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email : <a href="mailto:benjamindoriaebede10@gmail.com">benjamindoriaebede10@gmail.com</a></p>
+        <p>Téléphone : +237 659 90 35 73</p>
+        <p>LinkedIn : <a href="https://www.linkedin.com/in/benjamindoriaebede" target="_blank">linkedin.com/in/benjamindoriaebede</a></p>
+        <p>GitHub : <a href="https://github.com/benjamindoriaebede" target="_blank">github.com/benjamindoriaebede</a></p>
+    </section>
+
+    <footer>
+        &copy; 2025 Benjamin Doria Ebede - Tous droits réservés
+    </footer>
+</body>
+</html>
